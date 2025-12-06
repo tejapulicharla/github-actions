@@ -4,7 +4,7 @@ name: creating project using github actions
 
 on :
     push:
-        branches: [master]
+        branches: [master] 
     pull_request:
         branches: [master]
 
